@@ -1,0 +1,170 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Tarea semana 10**\n",
+        "\n",
+        "## **Intrucciones**:\n",
+        "Para cada ejercicio realiza lo siguiente:\n",
+        "\n",
+        "*   Escribe el código correspondiente.\n",
+        "*   Comenta cada linea de codigo especificando que hace.\n",
+        "*   Ejecuta tu código para verificar que funciona correctamente.\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "toOHloMzuNG7"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### **Ejemplo**:\n",
+        "\n",
+        "Ejercicio: Pide dos numeros al usuario y manda a pantalla la suma.\n",
+        "\n",
+        "\n",
+        "\n",
+        "```\n",
+        "#Pedimos al usuario un número usando input() y lo convertimos a entero usando int(). Lo guardamos en la variable num1.\n",
+        "num1 = int(input(\"Dame un número\"))\n",
+        "\n",
+        "#Pedimos al usuario otro número usando input() y lo convertimos a entero usando int(). Lo guardamos en la variable num2.\n",
+        "num2 = int(input(\"Dame otro número\"))\n",
+        "\n",
+        "#Mandamos a pantalla la suma de los dos número usando print().\n",
+        "print(num1 + num2)\n",
+        "\n",
+        "```\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "K70Ls7UOvCmf"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### ***Ejercicio 1:***  \n",
+        "Pide dos números al usuario y muestre en pantalla el resultado de multiplicarlos."
+      ],
+      "metadata": {
+        "id": "8jzoouDxwbu-"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Respuestas Ejercicio1\n"
+      ],
+      "metadata": {
+        "id": "UrXwLV0xwr-f"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### ***Ejercicio 2***:\n",
+        "\n",
+        "Pida el nombre del usuario y su edad; luego muestre el mensaje: \"Hola **[Nombre]** tienes **[años]** años!\"\n",
+        "\n",
+        "Cambia **[Nombre]** por el nombre que te dio el usuario y **[años]** por los años que te dio el usuario."
+      ],
+      "metadata": {
+        "id": "F_Gw6TvTwvcJ"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Respuestas del ejercicio2.\n"
+      ],
+      "metadata": {
+        "id": "SSUrvhf5wbHQ"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### ***Ejercicio 3:***\n",
+        "Pide al usuario su nombre y apellido, y muestra el nombre completo."
+      ],
+      "metadata": {
+        "id": "IevfqQtaxnTz"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "Qfc9UCL2uHz7"
+      },
+      "outputs": [],
+      "source": [
+        "#Respuestas de ejercicio 3"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### ***Ejercicio 4:***\n",
+        "Pide al usuario el precio de un producto y la cantidad que va a comprar, luego muestra el total a pagar."
+      ],
+      "metadata": {
+        "id": "sErlcp45y0An"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Respuesta de ejercicio 4"
+      ],
+      "metadata": {
+        "id": "70YzD-dz3Djr"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### ***Ejercicio 5:***\n",
+        "Pide al usuario una cantidad de minutos y muestra cuántos segundos equivalen."
+      ],
+      "metadata": {
+        "id": "WhaGr6ax3KEM"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Respuesta de ejercicio 5"
+      ],
+      "metadata": {
+        "id": "a4c20HFO3S1n"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
